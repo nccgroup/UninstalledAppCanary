@@ -27,7 +27,7 @@ cmd /c start /b wmic.exe product where "name like '%Norton Security%'" call unin
 
 Configuring
 -------------
-Edit Security.vdproj and replace REPLACMEE in "Arguments" = "8:REPLACEME.canarytokens.com"
+Edit Security.vdproj and replace REPLACME in "Arguments" = "8:REPLACEME.canarytokens.com"
 
 https://github.com/nccgroup/UninstalledAppCanary/blob/main/Security/Security.vdproj#L69
 
