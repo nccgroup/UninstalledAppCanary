@@ -1,4 +1,4 @@
-Deception Engineering: Uninstalled App Canary
+Uninstalled App Canary
 ======================
 
 Prior Work
