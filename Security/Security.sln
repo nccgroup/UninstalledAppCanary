@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Security", "Security.vdproj", "{FA3B52A6-E556-4363-944B-995AF50E219B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3B52A6-E556-4363-944B-995AF50E219B}.Debug|Default.ActiveCfg = Debug
+		{FA3B52A6-E556-4363-944B-995AF50E219B}.Debug|Default.Build.0 = Debug
+		{FA3B52A6-E556-4363-944B-995AF50E219B}.Release|Default.ActiveCfg = Release
+		{FA3B52A6-E556-4363-944B-995AF50E219B}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {549C025A-E21A-4EF8-AC35-786CD73DABD7}
+	EndGlobalSection
+EndGlobal
