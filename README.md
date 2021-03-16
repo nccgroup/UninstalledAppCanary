@@ -29,7 +29,7 @@ Configuring
 -------------
 Edit Security.vdproj and replace REPLACME in 
 
-````
+```
 "Arguments" = "8:REPLACEME.canarytokens.com"
 ```
 
