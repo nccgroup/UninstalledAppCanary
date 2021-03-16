@@ -30,3 +30,10 @@ Configuring
 Edit Security.vdproj and replace REPLACMEE in "Arguments" = "8:REPLACEME.canarytokens.com"
 
 https://github.com/nccgroup/UninstalledAppCanary/blob/main/Security/Security.vdproj#L69
+
+Build and Install
+-------------
+* Do a build
+* Install
+* .. wait
+
